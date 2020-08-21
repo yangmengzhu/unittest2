@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88d57a62-7f8a-43a9-9dff-ae4574db25ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gJyWjm6b83LDHFEZ0H0EDjKjPW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src1/test/data" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\测试代码练习\2020818\src1\test\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\测试代码练习\2020818\src1\test" />
+      <recent name="E:\测试代码练习\2020818\src1" />
+      <recent name="E:\测试代码练习\2020818\src1\test\errorImage" />
+      <recent name="E:\测试代码练习\2020818\src1\resultreport" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in baidu21.py">
+    <configuration name="Unittests for baidu21.baidu03" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="2020818" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src1/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;baidu21.baidu03&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for baidu21.baidu03.test_baidu1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="2020818" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src1/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;baidu21.baidu03.test_baidu1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for src1.test.baidu21.baidu03" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="2020818" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src1/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src1.test.baidu21.baidu03&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for src1.test.baidu21.baidu03" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="2020818" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src1/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src1.test.baidu21.baidu03&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for src1.test.baidu21.baidu03.test_baidu1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="2020818" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src1/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src1.test.baidu21.baidu03.test_baidu1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for src1.test.baidu21.baidu03.test_baidu1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="2020818" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src1/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src1.test.baidu21.baidu03.test_baidu1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for src1.test.test03.baidu03" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="2020818" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src1/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src1.test.test03.baidu03&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for src1.test.test03.baidu03.test_baidu1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="2020818" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src1/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src1.test.test03.baidu03.test_baidu1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in baidu21.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="2020818" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src1/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src1/test/baidu21.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in baidu21.py" />
+        <item itemvalue="Python tests.Unittests for baidu21.baidu03" />
+        <item itemvalue="Python tests.Unittests for baidu21.baidu03.test_baidu1" />
+        <item itemvalue="Python tests.Unittests for src1.test.baidu21.baidu03" />
+        <item itemvalue="Python tests.Unittests for src1.test.baidu21.baidu03.test_baidu1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88d57a62-7f8a-43a9-9dff-ae4574db25ce" name="Default Changelist" comment="" />
+      <created>1597847023770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597847023770</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="398" y="17" key="#test01" timestamp="1598014497304">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="398" y="17" key="#test01/0.0.1366.738@0.0.1366.738" timestamp="1598014497304" />
+    <state x="463" y="126" key="FileChooserDialogImpl" timestamp="1597899949497">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="126" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1597899949497" />
+    <state width="1308" height="159" key="GridCell.Tab.0.bottom" timestamp="1598029973600">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1308" height="159" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1598029973600" />
+    <state width="1308" height="159" key="GridCell.Tab.0.center" timestamp="1598029973600">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1308" height="159" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1598029973600" />
+    <state width="1308" height="159" key="GridCell.Tab.0.left" timestamp="1598029973600">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1308" height="159" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1598029973600" />
+    <state width="1308" height="159" key="GridCell.Tab.0.right" timestamp="1598029973600">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1308" height="159" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1598029973600" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1598028539349">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1598028539349" />
+    <state x="375" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1598012393760">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="375" y="195" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1598012393760" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1598017961184">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1598017961184" />
+  </component>
+</project>
